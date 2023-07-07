@@ -12,7 +12,7 @@ To play the game, follow these steps:
 4. Run the following command to execute the game:
 
    ```
-   python rock_paper_scissors.py
+   python game.py
    ```
 
 5. The game will start, and you will be prompted to enter your move. Use the following keys:
